@@ -1,0 +1,1 @@
+<img src="Резюме.jpg" alt="u can open cv from file">
